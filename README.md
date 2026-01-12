@@ -8,12 +8,12 @@ This is my first HTML & CSS project.I created this website to practice basic web
 -CSS3
 ## What i learned
 -HTML basic structure
--Headings. Paragraph, Images
+-Headings, Paragraph, Images
 -Forms and input fields
 -Tables
 -Semantic tags
 -CSS styling
--Colo, Font, Layout
+-Color, Font, Layout
 -Github Pages deployment 
 ## Student Details 
 - Name: Yogita santosh vaidya
