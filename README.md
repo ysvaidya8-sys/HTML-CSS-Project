@@ -1,6 +1,6 @@
 # HTML-CSS-Project
 ## Live website 
-https://ysvaidya8-sys.github.io/HTML-CSS-project/
+https://ysvaidya8-sys.github.io/HTML-CSS-Project/
 ## Project Description
 This is my first HTML & CSS project.I created this website to practice basic web development concepts.
 ## Technologies used
